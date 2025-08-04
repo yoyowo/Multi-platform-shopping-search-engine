@@ -12,14 +12,6 @@ Description
   <p align="center">
     x1ANN
     <br />
-    <a href="https://github.com/your_github_name/your_repository"><strong>探索本專案的文檔 »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/your_github_name/your_repository">查看Demo</a>
-    ·
-    <a href="https://github.com/your_github_name/your_repository/issues">報告Bug</a>
-    ·
-    <a href="https://github.com/your_github_name/your_repository/issues">提出新特性</a>
   </p>
 
 </p>
